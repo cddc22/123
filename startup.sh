@@ -16,3 +16,4 @@ node clear-db.js
 wget --no-check-certificate -q $SA_ZIP_URL
 unzip -qq sa.zip -d ./ 
 #ls -l sa.zip
+ls
