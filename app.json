@@ -7,7 +7,7 @@
     "env": {
         "BOT_TOKEN": {
 			"description": "Get from Telegram Botfathe",
-			"value": "1375021120:AAFCxmu4BuVhDS_YeNaUzvCWV0m_PsZNHDI"
+			"value": "1338143511:AAGTU9vARzOe4I8ubZ9ItV0UuengHLUyh00"
 		},
 		"USER_ID": {
 			"description": "get from telegram get_id_bot",
@@ -18,12 +18,12 @@
 			"value": "cddc22"
 		},
 		"SA_ZIP_URL": {
-			"description": "Service Accounts ZIP URL.It Should be Zipped ",
+			"description": "Servddddice Accounts ZIP URL.It Should be Zipped ",
 			"value": "https://raw.githubusercontent.com/cddc22/her/master/sa.zip"
 		},
 		"TEAM_DRIVE_ID": {
 			"description": "Destination Team Drive ID",
-			"value": "z0AAMbQ2_iy4gWUk9PVA"
+			"value": "0AAMbQ2_iy4gWUk9PVA"
 		}
     }
   }
