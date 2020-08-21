@@ -18,7 +18,8 @@ npm i pm2 -g
 #sed -i "s/your_tg_userid/$USER_ID/g" .config.js 
 #sed -i "s/tg_whitelist/$USER_NAME/g" .config.js
 #sed -i "s/DEFAULT_TARGET = ''/DEFAULT_TARGET = '$TEAM_DRIVE_ID'/g" .config.js
-ls
+#ls
 #cat config.js
+
 
 ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
