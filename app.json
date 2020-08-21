@@ -17,6 +17,10 @@
 			"description": "USERNAME",
 			"value": "cddc22"
 		},
+	    "CONFIG_URL": {
+			"description": "configurl",
+			"value": "https://raw.githubusercontent.com/cddc22/her/master/config.js"
+		},
 		"SA_ZIP_URL": {
 			"description": "Servddddice Accounts ZIP URL.It Should be Zipped ",
 			"value": "https://raw.githubusercontent.com/cddc22/her/master/sa.zip"
