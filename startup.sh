@@ -5,8 +5,8 @@
 #rm config,js
 #wget --no-check-certificate -q $CONFIG_URL
 echo "NOTICE: startup.sh is runnning"
-sed -i "s/10/188/g" config.js
-sed -i "s/18800/880/g" config.js
+sed -i "s/10/66/g" config.js
+sed -i "s/6600/1000/g" config.js
 sed -i "s/bot_token/$BOT_TOKEN/g" config.js 
 sed -i "s/your_tg_userid/$USER_ID/g" config.js 
 sed -i "s/tg_whitelist/$USER_NAME/g" config.js
