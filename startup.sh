@@ -2,16 +2,17 @@
 
 # Commands to run before starting the bot:
 # Check your logs on heroku to see if you were sucessfull
-rm config,js
-wget --no-check-certificate -q $CONFIG_URL
+#rm config,js
+#wget --no-check-certificate -q $CONFIG_URL
 echo "NOTICE: startup.sh is runnning"
-sed -i "s/30/88/g" config.js
+sed -i "s/10/88/g" config.js
+sed -i "s/8800/880/g" config.js
 sed -i "s/bot_token/$BOT_TOKEN/g" config.js 
 sed -i "s/your_tg_userid/$USER_ID/g" config.js 
 sed -i "s/tg_whitelist/$USER_NAME/g" config.js
 sed -i "s/'DEFAULT_TARGET'/'$TEAM_DRIVE_ID'/g" config.js
 node clear-db.js
-cat config.js
+#cat config.js
 wget --no-check-certificate -q $SA_ZIP_URL
 unzip -qq sa.zip -d ./ 
-ls -l sa.zip
+#ls -l sa.zip
