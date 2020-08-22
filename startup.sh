@@ -1,5 +1,5 @@
 #!/bin/bash
-
+        ls
 # Commands to run before starting the bot:
 # Check your logs on heroku to see if you were sucessfull
 #rm config,js
