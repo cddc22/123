@@ -14,6 +14,6 @@ sed -i "s/'DEFAULT_TARGET'/'$TEAM_DRIVE_ID'/g" config.js
 wget --no-check-certificate -q $BMURL
 node bookmark.js import bm.json
 
-wget --no-check-certificate -q $SA_ZIP_URL -o sa.zip
+wget --no-check-certificate -q $SA_ZIP_URL -O sa.zip
 unzip -qq sa.zip -d ./ 
 ls
