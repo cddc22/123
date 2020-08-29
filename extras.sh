@@ -2,7 +2,7 @@
 
 # put your commands to install extra shit below:
 # Check your logs on heroku to see if you were sucessfull
-git clone https://github.com/iwestlin/gd-utils.git her
+git clone https://github.com/dissipator/gd-utils.git her
 #git clone https://github.com/cddc22/her.git
 cd her
 #cd gd-utils
@@ -20,8 +20,6 @@ npm i pm2 -g
 #sed -i "s/DEFAULT_TARGET = ''/DEFAULT_TARGET = '$TEAM_DRIVE_ID'/g" .config.js
 #ls
 #cat config.js
-wget https://github.com/dissipator/gd-utils/blob/master/index.js
-wget https://github.com/dissipator/gd-utils/blob/master/config.js
 
 
 ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
