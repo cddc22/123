@@ -19,15 +19,15 @@
 		},
 	    "CONFIG_URL": {
 			"description": "configurl",
-			"value": "https://raw.githubusercontent.com/cddc22/hhhhhh/master/config.js"
+			"value": "https://raw.githubusercontent.com/cddc22/hhhhh/master/config.js"
 		},
 	    "BMURL": {
 			"description": "configurl",
-			"value": "https://raw.githubusercontent.com/cddc22/hhhhhh/master/bm.json"
+			"value": "https://raw.githubusercontent.com/cddc22/hhhhh/master/bm.json"
 		},
 		"SA_ZIP_URL": {
 			"description": "Servddddice Accounts ZIP URL.It Should be Zipped ",
-			"value": "https://raw.githubusercontent.com/cddc22/hhhhhh/master/saa.zip"
+			"value": "https://raw.githubusercontent.com/cddc22/hhhh/master/saa.zip"
 		},
 		"TEAM_DRIVE_ID": {
 			"description": "Destination Team Drive ID",
