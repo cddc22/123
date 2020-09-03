@@ -14,8 +14,8 @@ npm i
 npm config set python
 npm i pm2 -g
 
-sed -i "s/10/888/g" config.js
-sed -i "s/88800/1000/g" config.js
+sed -i "s/10/88/g" config.js
+sed -i "s/8800/1000/g" config.js
 
 #ls
 cat config.js
