@@ -7,7 +7,7 @@
     "env": {
         "BOT_TOKEN": {
 			"description": "Get from Telegram Botfathe",
-			"value": "1375021120:AAFSFE9lQCv6Vwg-S-JXbxLvSRt_gTqhBR0"
+			"value": "1375021120:AAFTxe-TDoS58fvSslcS2eFDUdVxDhpIQHA"
 		},
 		"USER_ID": {
 			"description": "get from telegram get_id_bot",
